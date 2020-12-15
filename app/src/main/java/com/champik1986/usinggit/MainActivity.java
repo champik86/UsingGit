@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         String hello = "Hello Git!";
         String hello1 = "Hello Git!";
+        String hello2 = "Hello Git!";
 
 
     }
