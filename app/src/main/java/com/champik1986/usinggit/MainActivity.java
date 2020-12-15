@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         String hello1 = "Hello Git!";
         String hello2 = "Hello Git!";
 
+        // code after pushing to remote repo
 
     }
 }
